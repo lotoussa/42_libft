@@ -6,12 +6,12 @@ Ce premier projet en tant qu'étudiant de 42 va vous faire consolider vos acquis
 
 Objectives
 
-Basics of C programming 
-Unix C library 
-Static library creation 
+Basics of C programming   
+Unix C library   
+Static library creation   
 
 Skills
 
-Imperative programming 
-Algorithms & AI 
-Rigor 
+Imperative programming   
+Algorithms & AI   
+Rigor   
